@@ -4,8 +4,6 @@
 
 - HTML5 / CSS3 
 
-- W3C / SEO / Accessibility
-
 - Jade / Less / Sass
 
 - Bootstrap / Responsive
